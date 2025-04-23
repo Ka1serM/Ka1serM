@@ -17,38 +17,6 @@ It’s taught me a lot about the rendering pipeline and the technical side of gr
   📧 <a href="mailto:marcelkazemi21@gmail.com">Email</a>
 </p>
 
-## Products
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong><a href="https://www.fab.com/listings/609b9dc7-d28e-4924-bdae-517b0be5a66c">EasyLUT</a></strong><br/>
-      Drag & Drop 3D LUT Importer for Unreal Engine.</td>
-      <td><strong><a href="https://marcelk.dev/universalumap/api/UniversalUmap.exe">UniversalUmap</a></strong><br/>
-      Export Unreal Engine levels to Blender & Unreal — with just one click.</td>
-      <td><strong><a href="https://github.com/Ka1serM/ValorantPorting">ValorantPorting</a></strong><br/>
-      A free tool for automating Valorant asset exporting to Blender.</td>
-      <td><strong><a href="https://github.com/h4lfheart/UEFormat">UEFormat</a></strong><br/>
-      Open source 3D model/animation format, supported by CUE4Parse.</td>
-    </tr>
-  </table>
-</div>
-
-## Recent Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong><a href="https://github.com/Ka1serM/CpuRaytracer">Ray Tracer</a></strong><br/>
-      Whitted-Style Ray Tracer with Global Illumination, Ambient Occlusion and Soft Shadows, written in Java...</td>
-      <td><strong><a href="https://www.behance.net/gallery/222102917/Turn-The-Tide-Liquid-Valorant">Turn The Tide</a></strong><br/>
-      3D Animation made for Team Liquids VALORANT Champions Tour Announcement...</td>
-      <td><strong><a href="https://github.com/Ka1serM/ShipZ">ShipZ</a></strong><br/>
-      Classic Battleship game implemented as a modern JavaFX desktop app with multiple difficulty levels and local multiplayer...</td>
-    </tr>
-  </table>
-</div>
-
 ## Technologies
 
 <p align="center">
